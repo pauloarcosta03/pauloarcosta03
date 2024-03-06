@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pauloarcosta03
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C
 - 📫 How to reach me pauloarcosta03@gmail.com
 
 <!---
